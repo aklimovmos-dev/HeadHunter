@@ -1,0 +1,11 @@
+# datasets
+data/
+*.csv
+*.parquet
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
